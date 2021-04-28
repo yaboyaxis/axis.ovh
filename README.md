@@ -1,2 +1,2 @@
-# axis-website
-Jonathans a Furry!
+# Axis (Website)
+Built on Hugo!
